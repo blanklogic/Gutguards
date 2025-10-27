@@ -22,7 +22,7 @@ const facts = [
     citationNumber: 2,
     citationText: "American Psychological Association",
     citationUrl: "https://www.apa.org/monitor/2012/09/gut-feeling",
-    color: "text-secondary",
+    color: "text-primary",
   },
   {
     icon: Pill,
@@ -33,7 +33,7 @@ const facts = [
     citationNumber: 3,
     citationText: "mSystems Journal",
     citationUrl: "https://journals.asm.org/doi/10.1128/msystems.00929-24",
-    color: "text-accent",
+    color: "text-primary",
   },
 ]
 
